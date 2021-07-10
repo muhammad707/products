@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 89.99
+  },
+  {
+    "id": "4",
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "price": 49.99
+  },
+  {
+    "id": "4bcd387e-f3a9-43f1-93ac-f9d3969990b7",
+    "name": "Macbook Pro 15",
+    "description": "Apple Macbook Pro 15",
+    "price": 1500
+  },
+  {
+    "id": "b4a0df19-1eec-4e3c-9ba9-98d39588b4e6",
+    "name": "Macbook Pro 15",
+    "description": "Apple Macbook Pro 15",
+    "price": 1700
+  },
+  {
+    "id": "0edf6115-0bed-4f65-9d60-12192e212ccf",
+    "name": "Macbook Pro 16",
+    "description": "Apple Macbook Pro 16",
+    "price": 2000
+  }
+]
